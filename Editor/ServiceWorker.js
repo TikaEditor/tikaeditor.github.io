@@ -1,9 +1,9 @@
 const cacheName = "JeppeSkov-Tika-1.0";
 const contentToCache = [
     "Build/Editor.loader.js",
-    "Build/Editor.framework.js.br",
-    "Build/Editor.data.br",
-    "Build/Editor.wasm.br",
+    "Build/Editor.framework.js",
+    "Build/Editor.data",
+    "Build/Editor.wasm",
     "TemplateData/style.css"
 
 ];
