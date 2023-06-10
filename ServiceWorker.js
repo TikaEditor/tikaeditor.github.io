@@ -1,9 +1,9 @@
 const cacheName = "JeppeSkov-Tika-1.0";
 const contentToCache = [
-    "Build/game.loader.js",
-    "Build/game.framework.js",
-    "Build/game.data",
-    "Build/game.wasm",
+    "Build/tikaeditor.loader.js",
+    "Build/tikaeditor.framework.js",
+    "Build/tikaeditor.data",
+    "Build/tikaeditor.wasm",
     "TemplateData/style.css"
 
 ];
